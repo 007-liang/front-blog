@@ -1,0 +1,7 @@
+node_modules/
+locale/
+lib/
+components/svg_logo/
+components/connect_wallet/logo
+components/pie_chart_svg
+pages/rank.tsx
